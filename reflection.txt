@@ -1,0 +1,6 @@
+1.What is the purpose of a shell?
+It reads and executes commands you typed
+2.What did you learn by running shell commands?
+I learned that it translates ls,cd etc into system calls for the kernel
+3.How was using the terminal different from clicking through folders?
+Instead of double clicking, you use cd commands
