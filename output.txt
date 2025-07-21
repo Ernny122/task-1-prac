@@ -1,0 +1,74 @@
+$ history
+    1  touch index.js
+    2  echo 'console.log("Hello world");' >
+    3  mkdir hello-world
+    4  cd hello-world
+    5  touch index.js
+    6  echo 'console.log("Hello world");' >
+    7  echo 'console.log("Hello world");'
+    8  echo 'console.log("Hello world");' > index.js
+    9  git init
+   10  git add
+   11  git add .
+   12  git commit -m "Add hello.js with Hello world"
+   13  git remote add origin https://github.com/0407315467081/js-hello.git
+   14  git push origin master
+   15  git push origin maingfgfth
+   16  git push origin main
+   17  git remote add origin https://github.com/Ernny122/hello-world.git
+   18  git push origin master
+   19  git push or
+   20  git push origin main
+   21  mkdir hello-world
+   22  cd hello-world
+   23  touch index.js
+   24  echo 'console.log("Hello World");' >index.js
+   25  git init
+   26  git add .
+   27  git commit -m "Add hello.js with Hello World"
+   28  git remote add origin https://github.com/Ernny122/hello-world.git
+   29  mkdir hello-world
+   30  cd hello-world
+   31  touch index.js
+   32  echo 'console.log("hello-world");' > index.js
+   33  git init
+   34  git add
+   35  git add .
+   36  git commit -m "Add hello.js with hello-world"
+   37  git remote add origin https://github.com/Ernny122/hello-world.git
+   38  git push origin master
+   39  git push origin main
+   40  git push origin main
+   41  git push origin master
+   42  git clone https://github.com/Ernny122/task-1-prac.git
+   43  cd task-1-prac
+   44  ls
+   45  git pull origin main
+   46  code .
+   47  echo "The shell is my translator to the OS"
+   48  pwd
+   49  ls
+   50  cd Documents
+   51  cd .
+   52  cd ..
+   53  ls
+   54  cd task-1-prac
+   55  chmod +x shell_intro.sh
+   56  chmod +x shell_intro.sh
+   57  touch reflection.txt
+   58  nano reflection.txt
+   59  nano reflection.txt
+   60  nano reflection.txt
+   61  chmod +x shell_intro.sh
+   62  nano reflection.txt
+   63  nano reflection.txt
+   64  chmod +x shell_intro.sh
+   65  chmod +x shell_intro.sh
+   66  ./shell_intro.sh
+   67  touch reflection.txt
+   68  nano reflection.txt
+   69  git init
+   70  git add .
+   71  git commit -m"competed shell architecture hands on tasks"
+   72  git push
+   73  history
